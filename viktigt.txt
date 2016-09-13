@@ -1,0 +1,3 @@
+PHPmyadmin:
+anv: root
+lös: hAUrgqAQP8
