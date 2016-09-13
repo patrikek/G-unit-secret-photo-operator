@@ -4,4 +4,4 @@ lös: hAUrgqAQP8
 
 DigitalOcean:
 anv: root
-pass: 6cff2087504e26b7
+pass: g-unit4life
