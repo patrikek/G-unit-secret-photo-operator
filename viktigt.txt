@@ -1,4 +1,4 @@
-PHPmyadmin:
+mysql root user:
 anv: root
 lös: hAUrgqAQP8
 
