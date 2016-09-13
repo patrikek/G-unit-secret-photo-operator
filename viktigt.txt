@@ -1,3 +1,9 @@
+IP till hemsidan:
+46.101.122.32
+
+för att komma till phpmyadmin:
+46.101.122.32/phpmyadmin
+
 mysql root user:
 anv: root
 lös: hAUrgqAQP8
