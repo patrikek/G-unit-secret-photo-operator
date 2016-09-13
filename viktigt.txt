@@ -11,3 +11,8 @@ lös: hAUrgqAQP8
 DigitalOcean:
 anv: root
 pass: g-unit4life
+
+FileZilla
+värd: sftp://46.101.122.32
+anv: root
+lös:g-unit4life
