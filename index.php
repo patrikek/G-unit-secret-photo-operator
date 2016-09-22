@@ -13,14 +13,14 @@
 		<!--css-->
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel="stylesheet" type="text/css" href="dropzone.css">
-		<title>noDix</title>
+		<title>Post pics!</title>
 	</head>
 	<body>
 		<div class="bodyDiv">
 
 		<form action="/file-upload" class="dropzone" id="dropzone">
 
-		<!--<input type="file" name="file"/>-->
+		<input type="file" name="file"/>
 
 		</form>
 
